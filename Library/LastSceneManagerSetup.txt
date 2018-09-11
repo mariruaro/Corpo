@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Urban American Assets/Demo scenes/Paint booth.unity
+- path: Assets/Scenes/Ambient1.unity
   isLoaded: 1
   isActive: 1
