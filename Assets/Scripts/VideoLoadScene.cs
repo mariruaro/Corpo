@@ -6,8 +6,8 @@ using UnityEngine.SceneManagement;
 public class VideoLoadScene : MonoBehaviour {
 
 
-    public float delay = 15;
-    public string NewLevel = "Ambient1";
+    public float delay = 5;
+    public string NewLevel;
     void Start()
     {
         StartCoroutine(LoadLevelAfterDelay(delay));

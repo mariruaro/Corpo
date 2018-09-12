@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 2276de60139f0684fb0fa0d70d6c5b63
-timeCreated: 1536355261
+guid: 1b08fb9832de21a46be8e66d11927bc6
+timeCreated: 1536711576
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -13,7 +13,12 @@ ModelImporter:
     3300000: //RootNode
     4300000: Box01
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 221468076a935124b85808da9b0b0c86, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
